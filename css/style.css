@@ -11,6 +11,22 @@ body {
     text-align: center;
 }
 
+/* Navigation Menu */
 .navbar-brand{
     color: aliceblue;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.nav-link{
+    color: aliceblue;
+
+}
+
+/* Starting Image  */
+
+.startImage{
+    width: 50%;
+    height: 50%;
 }
