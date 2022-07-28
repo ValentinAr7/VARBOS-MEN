@@ -26,15 +26,14 @@ body {
 
 /* Starting Image  */
 
-#start {
-    color: aliceblue;
+.banner{
     width: 100%;
-    font-size: larger;
-    text-align: center;
-    overflow: hidden;
+    height: 100vh;
+    background-image: linear-gradient((0,0,0,0.75),(0,0,0,0.75));
+    background-size: cover;
+    background-position: center;
 }
 
 .startImage{
-    width: 100%;
-    overflow: hidden;
+    background-image: linear-gradient((0,0,0,0.75),(0,0,0,0.75));
 }
