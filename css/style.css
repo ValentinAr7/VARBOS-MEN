@@ -26,8 +26,8 @@ body {
 
 /* Starting Image  */
 
-.startImage{
-    width: 100%;
-    height: 20%;
-    overflow: hidden;
+#imageStarter{
+    width: 100%
+    
+
 }
