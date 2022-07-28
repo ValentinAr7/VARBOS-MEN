@@ -52,3 +52,12 @@ body {
     left: 32%;
 }
 
+.newsletter{
+    text-align: center;
+    top: 50%;
+    left: 30%;
+    position: absolute;
+    color: rgb(153, 153, 153);
+    font-size: 18px;
+}
+
