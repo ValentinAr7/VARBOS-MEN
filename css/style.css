@@ -26,8 +26,10 @@ body {
 
 /* Starting Image  */
 
-#imageStarter{
-    width: 100%
-    
-
+#start{
+    color: aliceblue;
+font-size: larger;
+text-align: center;
+overflow: hidden;
+width: 100%;
 }
