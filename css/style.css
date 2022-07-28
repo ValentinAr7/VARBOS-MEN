@@ -2,7 +2,7 @@ body {
     background-color: rgb(46, 46, 46);
 }
 
-.header1{
+.header1 {
     background-color: rgb(217, 255, 0);
     padding-top: 8px;
     padding-bottom: 8px;
@@ -12,24 +12,29 @@ body {
 }
 
 /* Navigation Menu */
-.navbar-brand{
+.navbar-brand {
     color: aliceblue;
     font-weight: bold;
     padding-left: 20px;
     padding-right: 50px;
 }
 
-.nav-link{
+.nav-link {
     color: aliceblue;
 
 }
 
 /* Starting Image  */
 
-#start{
+#start {
     color: aliceblue;
-font-size: larger;
-text-align: center;
-overflow: hidden;
-width: 100%;
+    width: 100%;
+    font-size: larger;
+    text-align: center;
+    overflow: hidden;
+}
+
+.startImage2{
+    width: 100%;
+    overflow: hidden;
 }
