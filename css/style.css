@@ -69,5 +69,10 @@ body {
 
 .start-button{
     position: absolute;
-    top: 50%;
+    top: 60%;
+}
+
+.start-buttons{
+    position: absolute;
+    top: 60%;
 }
