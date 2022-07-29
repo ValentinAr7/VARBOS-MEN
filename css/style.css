@@ -63,5 +63,11 @@ body {
 }
 
 .navbar-nav{
-    align-items: right;
+    padding-left: 80%;
+}
+
+
+.start-button{
+    position: absolute;
+    top: 50%;
 }
