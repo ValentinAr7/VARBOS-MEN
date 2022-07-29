@@ -71,5 +71,14 @@ body {
     position: absolute;
     top: 60%;
     left: 43%;
-    margin-right: 5px;
+}
+
+.btn-primary {
+background-color: rgb(255, 255, 255);
+border-color: black;
+color: black;
+margin-right: 15px;
+padding: 0,10,0,10;
+
+
 }
