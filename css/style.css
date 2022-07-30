@@ -112,14 +112,16 @@ padding-right: 20px;
     margin-top: 40px;
     margin-bottom: 40px;
     margin-left: 80px;
-
+    position: absolute;
 }
 
 .heading1{
-    position: absolute;
-    left: 70%;
+display: grid;
+grid-template-columns: 2;
+gap: 20px;
+}
 
-    color: white;
-    font-size: 900;
-    font-style: bold;
+.one{
+    grid-column: 1/2;
+    grid-row: 1;
 }
