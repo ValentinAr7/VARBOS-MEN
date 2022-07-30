@@ -105,3 +105,21 @@ padding-right: 20px;
 .d-md-flex {
     position: static;
 }
+
+/* IMAGE SECTION 1 */
+
+.image-section-1{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 80px;
+
+}
+
+.heading1{
+    position: absolute;
+    left: 70%;
+
+    color: white;
+    font-size: 900;
+    font-style: bold;
+}
