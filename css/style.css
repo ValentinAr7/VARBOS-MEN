@@ -108,12 +108,16 @@ padding-right: 20px;
 
 /* IMAGE SECTION 1 */
 
-.image-section-1{
-
-    display: grid;
-    grid-template-columns: 1fr, 1fr;
-    gap: 20px;
-
-
+.section{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    width: 100%;
 }
 
+
+.section h1{
+    color: white;
+    size: 56px;
+    top: 30%;
+}
