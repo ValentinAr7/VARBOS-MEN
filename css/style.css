@@ -109,19 +109,11 @@ padding-right: 20px;
 /* IMAGE SECTION 1 */
 
 .image-section-1{
-    margin-top: 40px;
-    margin-bottom: 40px;
-    margin-left: 80px;
-    position: absolute;
+
+    display: grid;
+    grid-template-columns: 1fr, 1fr;
+    gap: 20px;
+
+
 }
 
-.heading1{
-display: grid;
-grid-template-columns: 2;
-gap: 20px;
-}
-
-.one{
-    grid-column: 1/2;
-    grid-row: 1;
-}
