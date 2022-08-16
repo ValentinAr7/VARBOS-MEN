@@ -148,8 +148,10 @@ padding-right: 20px;
     font-size: 30px;
 }
 
-.CoverBeardPatches p{
-    
+.coverPatchesP{
+    color: black;
+    text-align: center;
+    font-size: 15px;
 }
 
 
