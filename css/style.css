@@ -138,7 +138,7 @@ padding-right: 20px;
 .CoverBeardPatches{
     background-color: rgb(217, 255, 0);
 
-    padding-top: 5px;
+    padding-top: px;
     padding-bottom: 2px;
     margin-top: 50px;
 
@@ -146,6 +146,10 @@ padding-right: 20px;
     text-align: center;
     font:900;
     font-size: 30px;
+}
+
+.CoverBeardPatches p{
+    
 }
 
 
