@@ -175,7 +175,7 @@ padding-right: 20px;
 }
 
 .imageSection2 p{
-    color: white;
+    color: rgb(160, 160, 160);
     font-size: 1.5rem;
 }
 
@@ -194,6 +194,10 @@ padding-right: 20px;
 }
 
 
+
+
+
+/* CARD DECK STYLE  */
 .row{
     margin: 110px;
 }
@@ -206,4 +210,8 @@ padding-right: 20px;
 .card-title{
     font-weight: bold;
     color: aliceblue;
+}
+
+.card-text{
+    color: rgb(160, 160, 160);
 }
