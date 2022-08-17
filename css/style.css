@@ -202,3 +202,8 @@ padding-right: 20px;
     background-color: #313030;
     color: aliceblue;
 }
+
+.card-title{
+    font-weight: bold;
+    color: aliceblue;
+}
