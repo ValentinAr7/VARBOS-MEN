@@ -249,3 +249,11 @@ padding-right: 20px;
 .products {
 margin-top: 25px;
 }
+
+
+/* VIDEO SECTION  */
+.vid-title{
+    background-color: rgb(217, 255, 0);
+    text-align: center;
+    font: bold;
+}
