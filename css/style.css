@@ -253,7 +253,9 @@ margin-top: 25px;
 
 /* VIDEO SECTION  */
 .vid-title{
-    background-color: rgb(217, 255, 0);
-    text-align: center;
+    color: aliceblue;
+    text-align: left;
     font: bold;
+    font-size: 30px;
+    padding-left: 10%;
 }
