@@ -223,6 +223,9 @@ padding-right: 20px;
 
 /* OUR PRODUCTS  */
 
+.shop  {
+    background-color: rgb(217, 255, 0);
+}
 
 .product-image{
     width: 100%;
