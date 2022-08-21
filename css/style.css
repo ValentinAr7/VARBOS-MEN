@@ -225,7 +225,11 @@ padding-right: 20px;
 
 .shop  {
     background-color: rgb(217, 255, 0);
-    text-align: centerte;
+    text-align: center;
+    font: bold;
+    font-size: 30px;
+    padding: 10px 0px;
+    margin-top: 55px;
 }
 
 .product-image{
@@ -236,5 +240,5 @@ padding-right: 20px;
 }
 
 .products {
-margin-top: 55px;
+margin-top: 25px;
 }
