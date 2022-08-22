@@ -273,3 +273,8 @@ margin-top: 25px;
     font:bold;
     color: aliceblue;
 }
+
+.input-group{
+    width: 50%;
+    align-self: center;
+}
