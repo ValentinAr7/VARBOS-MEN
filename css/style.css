@@ -261,5 +261,6 @@ margin-top: 25px;
 }
 
 .video{
+    width: 100%;
     align-items: center;
 }
