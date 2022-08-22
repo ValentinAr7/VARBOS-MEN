@@ -267,3 +267,9 @@ margin-top: 25px;
 
 
 /* SUBSCRIBE SECTION s */
+.subscribe-title{
+    text-align: center;
+    font-size: 30px;
+    font:bold;
+    color: aliceblue;
+}
