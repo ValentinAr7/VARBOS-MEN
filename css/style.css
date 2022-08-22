@@ -274,7 +274,10 @@ margin-top: 25px;
     color: aliceblue;
 }
 
+.email{
+    width: 100%;
+}
+
 .input-group{
     width: 50%;
-    align-self: center;
 }
