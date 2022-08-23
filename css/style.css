@@ -332,4 +332,5 @@ ul{
     bottom: -10px;
     background-color: #e91e63;
     height: 2px;
+    box-sizing: border-box;
 }
