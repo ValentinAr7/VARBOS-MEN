@@ -343,5 +343,10 @@ ul{
 .footer-col ul li a{
     font-size: 16px;
     text-transform: capitalize;
-    color: aliceblue;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color: #bbbbbb;
+    display: block;
+
 }
