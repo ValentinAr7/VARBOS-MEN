@@ -364,5 +364,12 @@ ul{
         width: 50%;
         margin-bottom: 30px;
     }
+}
+
+@media(max0width: 574px){
+    .footer-col{
+        width: 50%;
+        margin-bottom: 30px;
+    }
 
 }
