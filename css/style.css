@@ -285,7 +285,23 @@ margin-top: 25px;
 
 
 /* FOOTER SECTION  */
+.container{
+    max-width: 1170px;
+    background-color: red;
+    margin: auto;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+ul{
+    list-style: none;
+}
+
 .footer{
     background-color: #24262b;
-    
+    padding: 70px 0;;
+
 }
