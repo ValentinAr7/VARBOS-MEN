@@ -356,3 +356,13 @@ ul{
     padding-left: 8px;
 
 }
+
+
+/* RESPONSIVE FOOTER  */
+@media(max0width: 767px){
+    .footer-col{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+}
