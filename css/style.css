@@ -386,3 +386,9 @@ ul{
     padding: 100px 0px;
     background-color: rgb(34, 34, 34);
 }
+
+.about img{
+    height: auto;
+    width: 430px;
+
+}
