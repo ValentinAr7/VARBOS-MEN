@@ -405,3 +405,11 @@ ul{
     align-items: center;
     justify-content: space-around;
 }
+
+
+.about-text h1{
+    color: aliceblue;
+    font-size: 75px;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
