@@ -390,3 +390,9 @@ ul{
 .banner-catalog{
     width: 100%;
 }
+
+.catalog-title{
+    color: aliceblue;
+    padding-left: 2% 8%;
+
+}
