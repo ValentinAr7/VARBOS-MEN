@@ -478,15 +478,19 @@ body{
 }
 
 .colors ul li:nth-child(1){
-    background-color: #6c704d
+    background-color: #6c704d;
+    padding: 20px;
+    
 }
 
 .colors ul li:nth-child(2){
-    background-color: #96918b
+    background-color: #96918b;
+    padding: 20px;
 }
 
 .colors ul li:nth-child(3){
-    background-color: #68778e
+    background-color: #68778e;
+    padding: 20px;
 }
 
 
