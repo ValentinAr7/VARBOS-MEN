@@ -285,9 +285,6 @@ margin-top: 25px;
 
 
 /* FOOTER SECTION  */
-
-
-
 .container{
     max-width: 100%;
     margin: auto;
@@ -403,7 +400,7 @@ ul{
 /* -------------------------------- PRODUCT PAGE 1 ------------------------------------- */
 
 body{
-    background-color: #24262b
+    background-color: rgb(26, 26, 26)
 }
 
 .card{
