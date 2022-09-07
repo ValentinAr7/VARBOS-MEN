@@ -480,6 +480,7 @@ body{
 .colors ul li:nth-child(1){
     background-color: #6c704d;
     padding: 20px;
+    margin: 20px;
     
 }
 
