@@ -404,7 +404,9 @@ body{
 }
 
 .card{
-    border: none;overflow: hidden
+    border: none;
+    overflow: hidden;
+    background-color: white;
 }
 
 .thumbnail_images ul{
