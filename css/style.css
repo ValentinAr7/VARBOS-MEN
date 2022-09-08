@@ -485,6 +485,7 @@ body{
     background-color: #000000;
     padding: 20px;
     margin-right: 40px;
+
 }
 
 .marker1{
@@ -590,7 +591,7 @@ body{
     .buttons .btn{
         height: 50px;
         width: 150px;
-        border-radius: 0px !important
+        border-radius: 0px !important;
     }
 
 
@@ -602,4 +603,25 @@ body{
 
     .price{
         margin-bottom: 0;
+    }
+
+    .color-names ul{
+            list-style: none;
+            display: flex;
+            padding-left: 0px;
+    }
+
+    .color-names ul li:nth-child(1){
+        color: #ffffff;
+        margin-right: 40px;
+    }
+
+    .color-names ul li:nth-child(2){
+        color: #ffffff;
+        margin-right: 20px;
+    }
+
+    .color-names ul li:nth-child(3){
+        color: #ffffff;
+        margin-right: 20px;
     }
