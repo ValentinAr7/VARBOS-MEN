@@ -594,3 +594,7 @@ body{
     .tax-included{
         font-size: 14px;
     }
+
+    .price{
+        margin-bottom: 0;
+    }
