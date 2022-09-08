@@ -512,7 +512,7 @@ body{
     background-color:#d9ff00;
     overflow: hidden;
     align-items: center;
-    color: #fff;
+    color: rgb(0, 0, 0);
     width: 200px;
     height: 200px;
     border-radius: 49% 51% 50% 50% / 68% 69% 31% 32%;
@@ -545,8 +545,8 @@ body{
         background-color: transparent;
         width: 300px;
         border: none;
-        color: #fff;
-        border-bottom: 1px solid #eee;
+        color:#000;
+        border-bottom: 1px solid #000;
         transition: all 0.5s;
         z-index: 10
     }
