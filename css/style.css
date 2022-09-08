@@ -485,13 +485,17 @@ body{
     background-color: #000000;
     padding: 20px;
     margin-right: 40px;
-    
+}
+
+.marker1{
+    text-align: center;
 }
 
 .colors ul li:nth-child(2){
     background-color: #342615;
-    padding-right: 20px;
-    margin-right: 50px;
+    padding: 20px;
+    margin-right: 40px;
+    text-align: center;
 
 }
 
