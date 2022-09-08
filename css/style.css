@@ -455,7 +455,11 @@ body{
 
 .ratings span{
     font-size: 14px;
-    margin-left: 12px
+    margin-left: 12px;
+}
+
+.ratings i{
+    color: #d9ff00;
 }
 
 .colors{
