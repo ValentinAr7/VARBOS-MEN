@@ -463,7 +463,7 @@ body{
 }
 
 .colors{
-    margin-top: 5px
+    margin-top: 5px;
 }
 
 .colors ul{
@@ -482,21 +482,21 @@ body{
 }
 
 .colors ul li:nth-child(1){
-    background-color: #6c704d;
+    background-color: #000000;
     padding: 20px;
     margin-right: 40px;
     
 }
 
 .colors ul li:nth-child(2){
-    background-color: #96918b;
-    padding: 20px;
-    margin-right: 40px;
+    background-color: #342615;
+    padding-right: 20px;
+    margin-right: 50px;
 
 }
 
 .colors ul li:nth-child(3){
-    background-color: #68778e;
+    background-color: #6c563c;
     padding: 20px;
     margin-right: 40px;
 
@@ -593,6 +593,7 @@ body{
 
     .tax-included{
         font-size: 14px;
+        text-decoration: underline;
     }
 
     .price{
