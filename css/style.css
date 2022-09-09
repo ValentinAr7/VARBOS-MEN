@@ -678,6 +678,25 @@ body{
     color: aliceblue;
     font-size: 18px;
     font-weight: 300;
+    text-align: left;
+    padding-right: 40px;
+    margin-top: 40px;
+    
+}
+
+
+
+.will-work{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.will-work-yes{
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 300;
 text-align: center;
     margin-top: 40px;
     line-height: 30px;
