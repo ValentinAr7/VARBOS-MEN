@@ -665,3 +665,19 @@ body{
     color: rgb(0, 0, 0);
     font-weight: bold;
 }
+
+
+.how-to-use{
+    color: aliceblue;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.list-of-use{
+    color: aliceblue;
+    font-size: 18px;
+    font-weight: 300;
+
+    margin-top: 4s0px;
+}
