@@ -657,9 +657,10 @@ body{
     /* <!-----------------------------------------------------------------------------------> */
 /* <!---------------------- SLOGAN "THE BEST A MAN CAN GET" ----------------------------> */
 
-.slogan{
+.slogan-product-page{
     background-color: #d9ff00;
     text-align: center;
     font:900;
     font-size: 30px;
+    color: white;
 }
