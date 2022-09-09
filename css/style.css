@@ -666,7 +666,8 @@ body{
     font-weight: bold;
 }
 
-
+/* -------------------------------------------------------------------------------- */
+/* ---------------IMAGE SECTION WITH BEARD (LEFT IMAGE) ---------------------------*/
 .how-to-use{
     color: aliceblue;
     text-align: center;
@@ -689,6 +690,9 @@ padding: 10px 0s;
 }
 
 
+
+/* -------------------------------------------------------------------------------- */
+/* ---------------IMAGE SECTION WITH BEARD PEN COLOROS (RIGHT IMAGE) --------------*/
 .will-work{
     color: aliceblue;
     text-align: center;
@@ -709,4 +713,5 @@ padding: 10px 0s;
     height: 57%;
     width: auto;
     margin-left: 20%;
+    margin-top:     18px;
 }
