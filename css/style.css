@@ -662,5 +662,6 @@ body{
     text-align: center;
     font:900;
     font-size: 30px;
-    color: white;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
 }
