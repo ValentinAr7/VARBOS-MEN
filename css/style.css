@@ -729,11 +729,18 @@ padding: 10px 0s;
     text-align: center;
     font:900;
     font-size: 35px;
-    margin-top: 0;
 }
 
 .first-section-p-product{
     color: black;
     text-align: center;
     font-size: 15px;
+}
+
+.section-product{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    padding-left: 10%;
+    width: 100%;
 }
