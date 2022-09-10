@@ -700,8 +700,8 @@ padding: 10px 0s;
 }
 
 .will-work-yes{
-    font-size: 18px;
-    font-weight: 300;
+    font-size: 14px;
+    font-weight: 200;
     text-align: center;
     margin-top: 40px;
     line-height: 30px;
@@ -709,7 +709,7 @@ padding: 10px 0s;
 }
 
 .img-pen-colors{
-    height: 35%;
+    height: 532px;
     width: auto;
     margin-left: 20%;
     margin-top:  18px;
