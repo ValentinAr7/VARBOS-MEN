@@ -718,3 +718,20 @@ padding: 10px 0s;
 
 /* ---------------------------------- FOR PERFECT BEARDS SECTION (PRODUCT PAGE) */
 /* --------------------------------------------------------------------------------- */
+
+.first-section-product{
+    padding-top: 5px;
+    padding-bottom: 2px;
+
+    background-color: rgb(217, 255, 0);
+    color: black;
+    text-align: center;
+    font:900;
+    font-size: 35px;
+}
+
+.first-section-p-product{
+    color: black;
+    text-align: center;
+    font-size: 15px;
+}
