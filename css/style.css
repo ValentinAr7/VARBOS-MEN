@@ -709,10 +709,10 @@ padding: 10px 0s;
 }
 
 .img-pen-colors{
-    height: 55%;
+    height: 35%;
     width: auto;
     margin-left: 20%;
-    margin-top:     18px;
+    margin-top:  18px;
 }
 
 
@@ -741,5 +741,4 @@ padding: 10px 0s;
 background-color: #342615;
 padding: 0px;
 height: 90%;
-width: 100%;
 }
