@@ -756,3 +756,11 @@ padding: 10px 0s;
 padding: 0px;
 height: 90%;
 }
+
+
+.wait{
+    color: aliceblue;
+    font-size: 30px;
+    font-weight: 900;
+    padding-left: 10%;
+}
